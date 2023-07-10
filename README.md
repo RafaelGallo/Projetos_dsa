@@ -45,7 +45,7 @@ Projeto 02 - Segurança do trabalho prevendo a eficiência  de extintores de inc
 Projeto 03 - Análise de risco no transporte público - (Big Data Real-Time Analytics com Python e Spark)
 [notebook]()
 
-Projeto 04 - Análise de sentimento em tweets chatgpt com pyspark (Big Data Real-Time Analytics com Python e Spark)
+Projeto 04 - Análise de sentimento em tweets ChatGPT com pyspark (Big Data Real-Time Analytics com Python e Spark)
 [notebook]()
 
 Projeto 05 - Implementando Slow Changing - (Engenharia de Dados com Hadoop e Spark)
