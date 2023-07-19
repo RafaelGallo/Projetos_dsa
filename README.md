@@ -37,7 +37,7 @@ Em conclusão, este repositório apresenta os projetos que desenvolvi durante mi
 # Descrição projetos na prática 
 
 Projeto 01 - Logística prevendo o consumo de energia de carros elétricos - (Big Data Analytics com R e Microsoft Azure Machine Learning)
-[notebook]()
+[notebook](https://github.com/Delta357/Projetos_dsa/blob/main/notebook/Projeto_1/R/model_ml_predict.r)
 
 Projeto 02 - Segurança do trabalho prevendo a eficiência  de extintores de incendio - (Big Data Analytics com R e Microsoft Azure Machine Learning)
 [notebook]()
