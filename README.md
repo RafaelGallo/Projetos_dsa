@@ -37,16 +37,16 @@ Em conclusão, este repositório apresenta os projetos que desenvolvi durante mi
 # Descrição projetos na prática 
 
 Projeto 01 - Logística prevendo o consumo de energia de carros elétricos - (Big Data Analytics com R e Microsoft Azure Machine Learning)
-[notebook](https://github.com/Delta357/Projetos_dsa/blob/main/notebook/Projeto_1/R/model_ml_predict.r)
+[R](https://github.com/Delta357/Projetos_dsa/blob/main/notebook/Projeto_1/R/model_ml_predict.r)
 
 Projeto 02 - Segurança do trabalho prevendo a eficiência  de extintores de incendio - (Big Data Analytics com R e Microsoft Azure Machine Learning)
-[notebook]()
+[R](https://github.com/Delta357/Projetos_dsa/blob/main/notebook/Projeto_2/R/src/model_ml.r)
 
 Projeto 03 - Análise de risco no transporte público - (Big Data Real-Time Analytics com Python e Spark)
 [notebook]()
 
 Projeto 04 - Análise de sentimento em tweets ChatGPT com pyspark (Big Data Real-Time Analytics com Python e Spark)
-[notebook]()
+[notebook_python](https://github.com/Delta357/Projetos_dsa/blob/main/notebook/Projeto_4/notebook/nlp_pyspark%20(2).ipynb)
 
 Projeto 05 - Implementando Slow Changing - (Engenharia de Dados com Hadoop e Spark)
 [notebook]()
@@ -55,10 +55,10 @@ Projeto 06 - Processamento de Logs em Tempo Real - (Engenharia de Dados com Hado
 [notebook]()
 
 Projeto 07 - Medicina personalizada redefinindo o tratamento de câncer - (Machine learning)
-[notebook](https://github.com/Delta357/Projetos_dsa/blob/main/notebook/Projeto_7/notebook/Projeto_DSA_ANN.ipynb)
+[notebook_python](https://github.com/Delta357/Projetos_dsa/blob/main/notebook/Projeto_7/notebook/Projeto_DSA_ANN.ipynb)
 
 Projeto 08 - Modelagem preditiva em iot - (Machine learning)
-[notebook]()
+[R](https://github.com/Delta357/Projetos_dsa/blob/main/notebook/Projeto%208/notebook/model_iot_pred2.r)
 
 Projeto 09 - Prevendo tendências macroeconômicas - (Business analytics)
 [notebook]()
