@@ -44,8 +44,7 @@ Projeto 02 - Segurança do trabalho prevendo a eficiência  de extintores de inc
 
 Projeto 03 - Análise de risco no transporte público - (Big Data Real-Time Analytics com Python e Spark)
 [Python_Notebook](https://github.com/Delta357/Projetos_dsa/blob/main/notebook/Projeto_03/Notebook/Analise_dados_acidentes.ipynb)
-
-[Apresetação](https://docs.google.com/presentation/d/1b5-b4XFodckdMyy0VoAfB1B5W6En6p2Q7xiLE7xmI2Q/edit?usp=sharing)
+[Apresetação em PDF](https://docs.google.com/presentation/d/1b5-b4XFodckdMyy0VoAfB1B5W6En6p2Q7xiLE7xmI2Q/edit?usp=sharing)
 
 
 Projeto 04 - Análise de sentimento em tweets ChatGPT com pyspark (Big Data Real-Time Analytics com Python e Spark)
