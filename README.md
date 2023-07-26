@@ -67,10 +67,8 @@ Projeto 10 - Sistema de Recomendação rede varejo - (Business analytics)
 [notebook]()
 
 Projeto 11 - Modelos Preditivos - (Visualização de Dados e Design de Dashboards)
-[notebook]()
 
 Projeto 12 - Design de Arquitetura Para Projetos IoT analytics - (Visualização de Dados e Design de Dashboards)
-[notebook]()
 
 ## Stack utilizada
 
