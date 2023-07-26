@@ -51,10 +51,8 @@ Projeto 04 - Análise de sentimento em tweets ChatGPT com pyspark (Big Data Real
 [notebook_python](https://github.com/Delta357/Projetos_dsa/blob/main/notebook/Projeto_4/notebook/nlp_pyspark%20(2).ipynb)
 
 Projeto 05 - Implementando Slow Changing - (Engenharia de Dados com Hadoop e Spark)
-[notebook]()
 
 Projeto 06 - Processamento de Logs em Tempo Real - (Engenharia de Dados com Hadoop e Spark)
-[notebook]()
 
 Projeto 07 - Medicina personalizada redefinindo o tratamento de câncer - (Machine learning)
 [notebook_python](https://github.com/Delta357/Projetos_dsa/blob/main/notebook/Projeto_7/notebook/Projeto_DSA_ANN.ipynb)
