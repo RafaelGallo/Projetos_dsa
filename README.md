@@ -111,14 +111,41 @@ Portanto, a primeira parte do processo de formação de um cientista de dados é
 **Mini-projeto 3 - Design de job mapreduce com spark para os gastos totais por cliente (Mini-projeto 3 - Design de job mapreduce com spark para os gastos totais por cliente)** [python]()
 
 
-
 ## 4) Machine Learning
+
+**Mini-projeto 1 - Machine learning K-NN (Mini-projeto 1 - Machine learning K-NN)** [Notebook]()
+
+**Mini-projeto 2 - Rede neural com tensorflow para classificação imagens vestuário (Mini-projeto 2 - Rede neural com tensorflow para classificação imagens vestuário)** [Notebook]()
+
+**Mini-projeto 3 - Classificador Spam com Naive bayes (Mini-projeto 3 - Classificador Spam com Naive bayes)** [Notebook]()
+
+**Mini-projeto 4 - Otimização retorno de investimentos (Mini-projeto 4 - Otimização retorno de investimentos)** [Notebook]()
+
+**Mini-projeto 5 - Otimização sistemas de voos (Mini-projeto 5 - Otimização sistemas de voos)** [Notebook]()
+
+
 
 ## 5) Business analytics
 
-## 6) Visualização de Dados e Design de Dashboards
+**Mini-projeto 1 - Health Analytics (Mini-projeto 1 - Health Analytics)** [Notebook]()
 
+**Mini-projeto 2 - AI Bot Trader (Mini-projeto 2 - AI Bot Trader)** [Notebook]()
 
+**Mini-projeto 3 - People Analytics (Mini-projeto 3 - People Analytics)** [Notebook]()
+
+**Mini-projeto 4 - Análise de Risco (Mini-projeto 4 - Análise de Risco)** [Notebook]()
+
+**Mini-projeto 5 - Data quality detecção de fraudes (Mini-projeto 5 - Data quality detecção de fraudes)** [Notebook]()
+
+**Mini-projeto 6 - Detecção de fraudes em transações vendas online (Mini-projeto 6 - Detecção de fraudes em transações vendas online)** [Notebook]()
+
+**Mini-projeto 7 - Text Analytics Para Analisar a Reação do mercado (Mini-projeto 7 - Text Analytics Para Analisar a Reação do mercado)** [Notebook]()
+
+**Mini-projeto 8 - Análise de preço e análise textual previsão de ativos financeiros (Mini-projeto 9 - Análise de preço e análise textual previsão de ativos financeiros)** [Notebook]()
+
+**Mini-projeto 10 - Supply chain analytics (Mini-projeto 10 - Supply chain analytics)** [Notebook]()
+
+**Mini-projeto 11 - Prevendo riscos em supply chain (Mini-projeto 11 - Prevendo riscos em supply chain)** [Notebook]()
 
 
 # Descrição projetos na prática 
