@@ -14,7 +14,7 @@
 
 ## Definição problema
 # Nossa recomendação é que você utilize linguagem R e os pacotes de
-# Market Basket Analysis oferecidos em R. O link para download do dataset você
+# Market Basket Analysis oferecidos em R. O link para download do dataset você encontra aqui:
 
 ## Base dados
 # Link: https://www.kaggle.com/competitions/instacart-market-basket-analysis
